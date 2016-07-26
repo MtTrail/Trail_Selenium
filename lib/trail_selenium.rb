@@ -9,7 +9,7 @@ require "trail_selenium/version"
 
 require 'rubygems'
 require 'selenium-webdriver'
-require './excel'
+require 'trail_excel'
 require 'win32/clipboard'
 require 'fileutils'
 require 'date'
